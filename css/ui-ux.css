@@ -116,10 +116,10 @@ p {
 }
 
 .portfolio-card-1 {
-    background-image: url(../images/Case_Study_NeufCycle.png);
+    background-image: url(../images/case_study_evenko.png);
     background-size: contain;
     width: 642px;
-    height: 415px;
+    height: 416px;
     border: 2px solid #ddd;
     border-radius: 26px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -127,10 +127,10 @@ p {
 }
 
 .portfolio-card-2 {
-    background-image: url(../images/Case_Study_John_Portfolio.png);
+    background-image: url(../images/case_study_talentelle.jpg);
     background-size: contain;
-    width: 642px;
-    height: 415px;
+    width: 641px;
+    height: 417px;
     border: 2px solid #ddd;
     border-radius: 26px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -138,10 +138,10 @@ p {
 }
 
 .portfolio-card-3 {
-    background-image: url(/);
+    background-image: url(../images/case_study_groupe_mmi.png);
     background-size: contain;
     width: 642px;
-    height: 415px;
+    height: 417px;
     border: 2px solid #ddd;
     border-radius: 26px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -149,7 +149,7 @@ p {
 }
 
 .portfolio-card-4 {
-    background-image: url(/);
+    background-image: url(../images/Case_Study_NeufCycle.png);
     background-size: contain;
     width: 642px;
     height: 415px;
