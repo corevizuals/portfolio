@@ -118,10 +118,10 @@ h3 {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.1rem;
     opacity:0;
     transition: opacity 2s;
-    width: 55%;
+    width: 53%;
     margin: 1rem 0 0;
 }
 .hero-p {
@@ -187,24 +187,24 @@ p {
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
-    width: 1470px;
+    width: 1500px;
     height: 500px;
     margin: 0 1em 1em;
-    background: url(../images/John.png) fixed no-repeat center center;
-    background-size: 100% 100%;
-    /* border-radius: 10%; */
+    background: url(../images/john_compuesto_headshot.jpg) fixed no-repeat center center;
+    background-size: contain;
+    border-radius: 50px; /* Increased the border-radius to a fixed pixel value for more pronounced corners */
 }
 
 .card1 {
     height: 243px;
-    background: url(../images/menea.png) fixed no-repeat center center;
+    background: url(../images/evenko_logo_white.png) fixed no-repeat center center;
     background-size: contain;
     filter: grayscale(1);
 }
 
 .card2 {
     height: 243px;
-    background: url(../images/Technovation.png) fixed no-repeat center center;
+    background: url(../images/NBA-Gatorade-League-Logo.png) fixed no-repeat center center;
     background-size: contain;
     filter: grayscale(1);
 }
